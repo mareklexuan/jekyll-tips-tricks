@@ -1,6 +1,6 @@
 # Jekyll tips & tricks
 
-My experience, tips and tricks for using Jekyll, blog-aware static site generator (https://jekyllrb.com/)
+My experience, tips and tricks for using Jekyll, blog-aware static site generator (https://jekyllrb.com/).
 
 ## Code snippets
 
