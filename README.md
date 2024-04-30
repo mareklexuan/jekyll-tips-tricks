@@ -1,6 +1,8 @@
 # Jekyll tips & tricks
 
-My experience, tips and tricks for using Jekyll, blog-aware static site generator (https://jekyllrb.com/).
+My experience, tips and tricks for using static site generator Jekyll.
+
+For official documentation, please see [https://jekyllrb.com/](https://jekyllrb.com/).
 
 ## Code snippets
 
