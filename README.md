@@ -2,7 +2,7 @@
 
 My experience, tips and tricks for using static site generator Jekyll.
 
-For official documentation, please see [https://jekyllrb.com/](https://jekyllrb.com/).
+_For official documentation, please see [https://jekyllrb.com/](https://jekyllrb.com/)._
 
 ## Code snippets
 
