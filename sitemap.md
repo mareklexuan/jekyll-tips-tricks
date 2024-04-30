@@ -1,4 +1,9 @@
 # Add sitemap
+
+## Logic
+
+On each page and post, I am using Front Matter variables `published` (boolean) and `updated` (date in YYYY-MM-DD format).
+
 ## Code snippet
 
 ```HTML
