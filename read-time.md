@@ -6,6 +6,8 @@
 2. Divide them reading rate (for example 265 word per minute)
 3. Display result
 
+## Code snippet
+
 ```Liquid
 
     {% assign words = content | number_of_words %}
