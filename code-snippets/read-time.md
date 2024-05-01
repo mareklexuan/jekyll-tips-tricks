@@ -2,9 +2,9 @@
 
 ## Logic
 
-1. Count words in the document
-2. Divide them reading rate (for example 265 word per minute)
-3. Display result
+- Count words in the document.
+- Divide them reading rate (for example 265 word per minute)
+- Display the result.
 
 ## Code snippet
 
