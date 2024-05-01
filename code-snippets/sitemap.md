@@ -1,8 +1,10 @@
 # Add sitemap
 
+Add a simple sitemap.
+
 ## Logic
 
-- Create `sitemap.xml` file in root directory of your project.
+- Create a `sitemap.xml` file in the root directory of your project.
 - On each page and post, use Front Matter variables `published` (boolean) and `updated` (date in YYYY-MM-DD format).
 
 ## Code snippet
@@ -74,4 +76,4 @@ layout: null
 
 ## Notes
 
-Sitemap (sitemap.xml file) can be placed in subdirectory, but convention is to place it in the root directory.
+- Sitemap (sitemap.xml file) can be placed in subdirectory, but convention is to place it in the root directory.

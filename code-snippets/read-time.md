@@ -21,4 +21,4 @@
 ## Notes
 
 - For posts shorter than your reading rate, set fixed reading time as "1 minute".
-- Liquid filter "divided_by:" rounds down to nearest integer. To round up, just simply add +1 minute to read time.
+- Liquid filter "divided_by:" rounds down to the nearest integer. To round up, just simply add +1 minute to read time.
