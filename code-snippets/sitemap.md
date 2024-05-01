@@ -57,3 +57,7 @@ layout: null
 </urlset>
 
 ```
+
+## Notes
+
+Sitemap (sitemap.xml file) can be placed in subdirectory, but convention is to place it in the root directory.
