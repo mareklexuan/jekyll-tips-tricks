@@ -2,9 +2,23 @@
 
 ## Logic
 
-On each page and post, I am using Front Matter variables `published` (boolean) and `updated` (date in YYYY-MM-DD format).
+- Create `sitemap.xml` file in root directory of your project.
+- On each page and post, use Front Matter variables `published` (boolean) and `updated` (date in YYYY-MM-DD format).
 
 ## Code snippet
+
+Front Matter
+
+```Front Matter
+---
+
+updated: 2024-05-04
+published: true
+
+---
+```
+
+Sitemap file:
 
 ```HTML
 
