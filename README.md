@@ -2,7 +2,9 @@
 
 My experience, tips and tricks for using static site generator Jekyll.
 
-_For official documentation, please see [https://jekyllrb.com/](https://jekyllrb.com/)._
+I'm a self-taught web dev (HTML/CSS) and Jekyll hobbyist, learning through trial and error, and using Jekyll to create my personal website. One of my struggles learning Jekyll was limited and outdated content about it
+
+I like the idea of open-source tools and the communities surrounding them, but one of my main struggles learning Jekyll was limited and outdated content about it, so I have decided that even though my skill and experience is limited, I just want to add to the community and support the Jekyll project to keep it going.
 
 ## Code snippets
 
