@@ -8,6 +8,9 @@ I like the idea of open-source tools and the communities surrounding them, but o
 
 ## Code snippets
 
+open-graph-meta-tag-article-tag
+
+- [Open Graph "article:tag meta" tag](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/open-graph-meta-tag-article-tag.md) - Add Open Graph "article:tag meta" tag to posts
 - [Read time](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/read-time.md) - Add read time to posts
 - [RSS 2.0 feed](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/rss-2.0-feed.md) - Add simple RSS 2.0 feed
 - [Sitemap](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/sitemap.md) - Add sitemap
