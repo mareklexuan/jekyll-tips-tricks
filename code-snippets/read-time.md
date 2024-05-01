@@ -1,5 +1,7 @@
 # Add "read time" to post
 
+Add "read time" to your posts.
+
 ## Logic
 
 - Count words in the document.
