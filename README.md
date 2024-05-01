@@ -9,6 +9,7 @@ I like the idea of open-source tools and the communities surrounding them, but o
 ## Code snippets
 
 - [Read time](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/read-time.md) - Add read time to posts
+- [RSS 2.0 feed](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/rss-2.0-feed.md) - Add simple RSS 2.0 feed
 - [Sitemap](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/sitemap.md) - Add sitemap
 - [Star rating](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/star-rating.md) - Add star rating
 
