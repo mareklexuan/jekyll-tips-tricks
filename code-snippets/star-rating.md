@@ -16,9 +16,7 @@ Front Matter
 
 ```Front Matter
 ---
-
 rating: 3
-
 ---
 ```
 

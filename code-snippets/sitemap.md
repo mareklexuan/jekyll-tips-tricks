@@ -13,10 +13,8 @@ Front Matter
 
 ```Front Matter
 ---
-
 updated: 2024-05-04
 published: true
-
 ---
 ```
 
