@@ -8,6 +8,7 @@ _For official documentation, please see [https://jekyllrb.com/](https://jekyllrb
 
 - [Read time](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/read-time.md) - Add read time to posts
 - [Sitemap](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/sitemap.md) - Add sitemap
+- [Star rating](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/star-rating.md) - Add star rating
 
 ---
 
