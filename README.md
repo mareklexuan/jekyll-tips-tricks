@@ -14,4 +14,8 @@ I like the idea of open-source tools and the communities surrounding them, but o
 
 ---
 
-If you find any mistake, typo or broken link, please create pull request or issue and I will update it. Thanks.
+_All content in this repository (pages, code snippets etc.) is only to showcase challenges I have experienced while learning web development and Jekyll, and my approach to solving them as inspiration for your solutions in your project. They are not meant to be perfect or "professional" solutions, nor comprehensive and complete tutorials and documentation. For official Jekyll documentation, please see [https://jekyllrb.com/](https://jekyllrb.com/)._
+
+_This is also not a support page for you to ask questions about your challenges with Jekyll. For that, please go to theJekyll Talk community forum ([https://talk.jekyllrb.com/](https://talk.jekyllrb.com/))._
+
+_If you find any mistake, typo or broken link, please create a pull request or issue and I will update it. Thanks._
