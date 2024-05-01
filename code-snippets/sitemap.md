@@ -2,7 +2,7 @@
 
 Add a simple sitemap.
 
-## Logic
+## Process
 
 - Create a `sitemap.xml` file in the root directory of your project.
 - On each page and post, use Front Matter variables `published` (boolean) and `updated` (date in YYYY-MM-DD format).

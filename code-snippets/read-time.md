@@ -2,7 +2,7 @@
 
 Add "read time" to your posts.
 
-## Logic
+## Process
 
 - Count words in the document.
 - Divide them reading rate (for example 265 word per minute)

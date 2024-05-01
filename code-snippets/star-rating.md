@@ -2,7 +2,7 @@
 
 Code snipped how to add star rating (1-5 stars).
 
-## Logic
+## Process
 
 - On every post, have the Front Matter variable `rating` as an integer of defined star rating range (I am using 1-5).
 - You have two icons for each star rating - "full" rating (usually gold star) and "empty" rating (greyed out).

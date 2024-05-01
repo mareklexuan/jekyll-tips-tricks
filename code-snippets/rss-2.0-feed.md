@@ -2,7 +2,7 @@
 
 Add basic RSS 2.0 feed.
 
-## Logic
+## Process
 
 - Create file feed.xml in your root directory.
 - Use Liquid to generate the XML feed file, listing 10 newest posts.
