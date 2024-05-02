@@ -27,7 +27,7 @@ And I get that there may have been solutions to my challenges in WordPress but I
 With Jekyll, I can focus more on my main goal - writing content, even offline, instead of constantly maintaining the website; and I can make a faster loading website that can't be hacked. It does require more work and is for tech savvy users, but I am also getting new skills and more experience with it.
 
 - **Tracking changes and history** - WordPress only tracks history for posts and pages, but it slows it down (WordPress and your website). With Jekyll, I can use GitHub (that is outside of the Jekyll and web hosting server) to track all changes in detail.
-- **Writing content** - Jekyll supports Markdown, which is much quicker than formatting text with WUSIWUG.
+- **Writing content** - Jekyll supports Markdown, which is much quicker than formatting text with WYSIWYG.
 - **Local editing** - With Jekyll you build it all locally. With WordPress you need to set up your local environment, which is not as simple as it seems and often behaves differently than a live site.
 - **Offline editing** - As I have everything in Jekyll locally, I can also work offline and commit my changes once I go offline. With WordPress, you need to download your whole website before you go offline.
 - **Community** - WordPress community is no longer supportive. There is a lot of ego from more advanced users, looking down on beginners. Even local meetups felt like Game of Thrones, people fighting to control the groups to sell their services.
