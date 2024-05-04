@@ -2,7 +2,7 @@
 
 My experience, tips and tricks for using static site generator Jekyll.
 
-I'm a self-taught web dev (HTML/CSS) and Jekyll hobbyist, learning through trial and error, and using Jekyll to create my personal website. One of my struggles learning Jekyll was limited and outdated content about it
+I'm a self-taught web dev (HTML/CSS) and Jekyll hobbyist, learning through trial and error, and using Jekyll to create my personal website.
 
 I like the idea of open-source tools and the communities surrounding them, but one of my main struggles learning Jekyll was limited and outdated content about it, so I have decided that even though my skill and experience is limited, I just want to add to the community and support the Jekyll project to keep it going.
 
@@ -10,6 +10,7 @@ I like the idea of open-source tools and the communities surrounding them, but o
 
 - [Moving from WordPress to Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/moving-from-wordpress-to-jekyll.md)
 - [Reasons why I chose Jekyll over WordPress](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/reasons-why-i-chose-jekyll-over-wordpress.md)
+- [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/how-to-use-comments-in-jekyll.md)
 
 ## Code snippets
 
