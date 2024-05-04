@@ -26,4 +26,4 @@ _All content in this repository (pages, code snippets etc.) is only to showcase 
 
 _This is also not a support page for you to ask questions about your challenges with Jekyll. For that, please go to the Jekyll Talk community forum ([https://talk.jekyllrb.com/](https://talk.jekyllrb.com/))._
 
-_If you find any mistake, typo or broken link, please create a pull request or issue and I will update it. Thanks._
+_If you find any mistake, typo or broken link, or missing some information in the post/code snippet, please create an issue and I will update it. Thanks._
