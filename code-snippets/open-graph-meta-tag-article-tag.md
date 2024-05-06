@@ -4,7 +4,7 @@ Add Open Graph "article:tag" meta tag to your website.
 
 Open Graph "article:tag" meta tag categorizes your post into one of predefined categories. Each of your posts can have multiple tags, each contained within its own meta tag.
 
-List of allowed tags can be found in the official Meta for Developers documentation, available at [https://developers.facebook.com/docs/news-indexing/guides/metadata-tags/](https://developers.facebook.com/docs/news-indexing/guides/metadata-tags/).
+List of allowed tags can be found in the official Meta for Developers documentation, available at <https://developers.facebook.com/docs/news-indexing/guides/metadata-tags/>.
 
 ## Process
 
@@ -58,7 +58,7 @@ In your template:
 ## Notes
 
 - The terminology is a bit confusing, as Open Graph uses the word "tag" for what would be generally considered "category". There used to be an Open Graph meta tag specifically for category, but it seems to be deprecated as it is no longer in the documentation.
-- You can also use Jekyll's category instead of tags. I don't use categories on my website, only tags, and I like to match terminology between the systems (use tags with tags). For more information about Jekyll's tags and categories, see the official documentation ([https://jekyllrb.com/docs/posts/#tags-and-categories](https://jekyllrb.com/docs/posts/#tags-and-categories)).
+- You can also use Jekyll's category instead of tags. I don't use categories on my website, only tags, and I like to match terminology between the systems (use tags with tags). For more information about Jekyll's tags and categories, see the official documentation <https://jekyllrb.com/docs/posts/#tags-and-categories>.
 - If you are using a lot of tags and it would be difficult to manage the YAML data file as in the code snippet above, I would recommend reducing the number of tags, unless you have a really large site covering many topics.
 - But, if you still want to keep your tags, the alternative approach would be to instead of assigning Open Graph tag to each Jekyll tag, do the opposite, assign Jekyll tags to Open Graph tags. This way you can limit the length of your YAML data file.
 

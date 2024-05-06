@@ -229,7 +229,9 @@ I don't really like Liquid comments as I can never get Liquid syntax highlightin
 
 Comments in Markdown files are tricky, because technically Markdown doesn't have comments. There are several workarounds, mainly using Markdown to generate links - empty of failed and not rendered at all, but they all can vary depending on type of Markdown processor you are using and even which version of it.
 
-It would be too extensive to list all the options here, so better check this [post on Stack Overflow](https://stackoverflow.com/questions/4823468/comments-in-markdown), discussing it and detailing several possible methods you can choose from.
+It would be too extensive to list all the options here, so better check this [post on Stack Overflow][1], discussing it and detailing several possible methods you can choose from.
+
+[1]: https://stackoverflow.com/questions/4823468/comments-in-markdown
 
 When choosing your approach to Markdown comments you also need to take in consideration if the comment will be visible in the rendered HTML code. You can generate an empty link without the comment, but it would still render extra HTML code that is not used on the website. Some methods will also leave the comment in the rendered code, even if not displayed on the page, but still accessible in the HTML code. You should choose a solution that will not clutter your output code and that will keep your comments private.
 

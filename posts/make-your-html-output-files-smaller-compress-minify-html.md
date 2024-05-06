@@ -2,7 +2,9 @@
 
 Smaller file sizes means faster loading of your website, which translates into better SEO, user experience and overall better performing website.
 
-Today I want to share with you how to minify your HTML output files, and remove any excess characters, especially comments. Comments often take up a lot of space and also contain some private information you might not want to share in your public code. (You can read more about comments in my post [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/how-to-use-comments-in-jekyll.md).)
+Today I want to share with you how to minify your HTML output files, and remove any excess characters, especially comments. Comments often take up a lot of space and also contain some private information you might not want to share in your public code. (You can read more about comments in my post [How to use comments in Jekyll][1].
+
+[1]: https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/how-to-use-comments-in-jekyll.md
 
 There is a terminological difference between minification and compression, however they are often mixed up and interchanged, so don't get confused and search only for one.
 
@@ -20,7 +22,7 @@ And once you reduce the size of your HTML files, every loading speed optimizatio
 
 I am always looking for a solution to a Jekyll problem that does not involve plugins. I always prefer code snippets, for example in Liquid, because I can follow the code and learn how it work, as it is something I can read and understand, compared to a script in Ruby or JavaScript.
 
-And there is such a solution for minification of HTML in Jekyll, using Liquid, thanks to the GitHub user (penibelst)[https://github.com/penibelst]. They have created a code to do it in Jekyll while you are building/rendering your website, so you can upload it to your server already minimized.
+And there is such a solution for minification of HTML in Jekyll, using Liquid, thanks to the GitHub user [penibelst](https://github.com/penibelst). They have created a code to do it in Jekyll while you are building/rendering your website, so you can upload it to your server already minimized.
 
 Here is the link to the repository, called [jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html).
 
@@ -46,4 +48,4 @@ compress_html:
   comments: ["<!-- ", " -->"]
 ```
 
-Full documentation can be found on [https://jch.penibelst.de/](https://jch.penibelst.de/).
+Full documentation can be found on <https://jch.penibelst.de/>.
