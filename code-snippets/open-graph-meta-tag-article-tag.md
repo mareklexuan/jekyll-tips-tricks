@@ -69,7 +69,7 @@ In your template:
 
 - You can also add the Open Graph tags to the Front Matter of each post and list them in the `<head>` tag directly. It is much easier to control the duplicates and to list them in your `<head>` tag, but you would have to add the Open Graph tags to each post manually and manage it from each post, instead of reusing the data you already have (categories or tags) and managing it from one central place (YAML data file).
 
-```Front Matter
+```YAML
 ---
 og-tag: ["Education & Learning", "Technology"]
 ---
