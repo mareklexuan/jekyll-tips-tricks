@@ -11,13 +11,11 @@ Add "read time" to your posts.
 ## Code snippet
 
 ```Liquid
-
-    {% assign words = content | number_of_words %}
-    {% if words < 265 %} 1 min read
-    {% else %}
-    {{ words | divided_by:265 | plus: 1 }} min read
-    {% endif %}
-
+{% assign words = content | number_of_words %}
+{% if words < 265 %} 1 min read
+{% else %}
+{{ words | divided_by:265 | plus: 1 }} min read
+{% endif %}
 ```
 
 ## Notes

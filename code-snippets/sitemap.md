@@ -21,7 +21,6 @@ published: true
 Sitemap file:
 
 ```HTML
-
 ---
 layout: null
 ---
@@ -69,7 +68,6 @@ layout: null
     {% endif %}
   {% endfor %}
 </urlset>
-
 ```
 
 ## Notes

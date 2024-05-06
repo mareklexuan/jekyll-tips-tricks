@@ -12,7 +12,6 @@ Add basic RSS 2.0 feed.
 RSS feed file:
 
 ```HTML
-
 ---
 layout: null
 ---
@@ -21,22 +20,21 @@ layout: null
 <rss version="2.0">
 
 <channel>
-	<title>{{ site.name | xml_escape }}</title>
-	<link>{{ site.url }}</link>
-	<description>{{ site.description | xml_escape }}</description>
-	<lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
-	{% for post in site.posts limit:10 %}
-		<item>
-			<title>{{ post.title | xml_escape }}</title>
-			<link>{{ site.url }}{{ post.url }}</link>
-			<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-			<description>{{ post.description | xml_escape }}</description>
-			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-		</item>
-	{% endfor %}
+  <title>{{ site.name | xml_escape }}</title>
+  <link>{{ site.url }}</link>
+  <description>{{ site.description | xml_escape }}</description>
+  <lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
+  {% for post in site.posts limit:10 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      <description>{{ post.description | xml_escape }}</description>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    </item>
+  {% endfor %}
 </channel>
 </rss>
-
 ```
 
 ## Notes

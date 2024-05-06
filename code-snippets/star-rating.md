@@ -23,7 +23,6 @@ rating: 3
 In your template:
 
 ```HTML
-
 {% for i in (1..{{page.rating}}) %}
 <img class="star-rating" src="{% link assets/icons/star-rating-full.svg %}" />
 {% endfor %}
