@@ -38,4 +38,4 @@ In your template:
 
 - For "empty" rating, you need to calculate the remaining stars. It is not possible to do it directly in the loop range, so I am using the variable `neg` to first calculate the remaining stars and then use it as the limit of the range.
 - HTML tag `<img>` is inline, so the icons will be rendered next to each other.
-- I am using two preformatted icons, for full star and empty star, formatted directly in the SVG files. Using two different icons makes it easier to manage it and understand the Liquid templates to distinguish between `full star` and `empty stars` rating. You could also use one icon and style it for each different rating, but that is a bit more complicated and probably non necessary for most project.
+- I am using two preformatted icons, for full star and empty star, formatted directly in the SVG files. Using two different icons makes it easier to manage it and understand the Liquid templates to distinguish between `full star` and `empty stars` rating. You could also use one icon and style it for each rating, but that's a bit more complicated and probably unnecessary for most project.
