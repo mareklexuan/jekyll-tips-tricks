@@ -25,8 +25,6 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 - [Sitemap](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/sitemap.md) - Add sitemap
 - [Star rating](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/star-rating.md) - Add star rating
 
----
-
 ## Do you like my work? Support me 💓
 
 Did you find it useful? Share it with a friend and star this repository. You can also buy me a coffee. Thank you.
@@ -37,10 +35,7 @@ Did you find it useful? Share it with a friend and star this repository. You can
 
 ---
 
-<br>
-
 _If you find any mistake, typo or broken link, or missing some information in the post/code snippet, please create an issue and I will update it. Thanks._
-<br>
 
 ---
 
