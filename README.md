@@ -8,7 +8,7 @@ I am building my Jekyll project from scratch, building my own design/theme, with
 
 I like the idea of open-source tools and the communities surrounding them, but one of my main struggles learning Jekyll was limited and outdated content about it, so I have decided that even though my skill and experience is limited, I just want to add to the community and support the Jekyll project to keep it going.
 
-This content is meant for beginners, hobbyists and enthusiasts like me, who are learning with Jekyll and want to learn more about it.
+This content is meant for beginners, hobbyists and enthusiasts like me, who are learning with Jekyll and want to learn more about it, to help you on your journey. These might not be the most elegant solutions, but they work as I have used them all in my project, and I hope they will help you as well.
 
 ## Posts
 
