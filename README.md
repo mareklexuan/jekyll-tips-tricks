@@ -25,9 +25,9 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 - [Sitemap](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/sitemap.md) - Add sitemap
 - [Star rating](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/star-rating.md) - Add star rating
 
-## Do you like my work? Support me 💓
+## Support me 💓
 
-Did you find it useful? Share it with a friend and star this repository. You can also buy me a coffee. Thank you.
+Did you find it useful? Star this repository and share it with a friend. You can also buy me a coffee. Thank you.
 
 <br>
 <a href="https://www.buymeacoffee.com/mareklexuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 53px !important;width: 192px !important;" ></a>
