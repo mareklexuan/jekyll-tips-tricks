@@ -33,10 +33,13 @@ Did you find it useful? Share it with a friend and star this repository. You can
 
 <br>
 <a href="https://www.buymeacoffee.com/mareklexuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 53px !important;width: 192px !important;" ></a>
+<br>
 
 ---
 
+<br>
 _If you find any mistake, typo or broken link, or missing some information in the post/code snippet, please create an issue and I will update it. Thanks._
+<br>
 
 ---
 
