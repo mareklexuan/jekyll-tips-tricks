@@ -27,8 +27,19 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 
 ---
 
+## Do you like my work? Support me 💓
+
+Did you find it useful? Share it with a friend and star this repository. You can also buy me a coffee. Thank you.
+
+<br>
+<a href="https://www.buymeacoffee.com/mareklexuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 53px !important;width: 192px !important;" ></a>
+
+---
+
+_If you find any mistake, typo or broken link, or missing some information in the post/code snippet, please create an issue and I will update it. Thanks._
+
+---
+
 _All content in this repository (pages, code snippets etc.) is only to showcase challenges I have experienced while learning web development and Jekyll, and my approach to solving them as inspiration for your solutions in your project. They are not meant to be perfect or "professional" solutions, nor comprehensive and complete tutorials and documentation. For official Jekyll documentation, please see <https://jekyllrb.com>._
 
 _This is also not a support page for you to ask questions about your challenges with Jekyll. For that, please go to the Jekyll Talk community forum <https://talk.jekyllrb.com>._
-
-_If you find any mistake, typo or broken link, or missing some information in the post/code snippet, please create an issue and I will update it. Thanks._
