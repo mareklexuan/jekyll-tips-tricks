@@ -38,7 +38,9 @@ Did you find it useful? Share it with a friend and star this repository. You can
 ---
 
 <br>
+
 _If you find any mistake, typo or broken link, or missing some information in the post/code snippet, please create an issue and I will update it. Thanks._
+
 <br>
 
 ---
