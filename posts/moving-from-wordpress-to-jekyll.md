@@ -50,3 +50,13 @@ WordPress is also suited for e-commerce, membership sites, closed communities et
 Is Jekyll the best choice? It depends. There are already better and faster tools, but often still in development. Jekyll is a bit older and past its hype phase, but it works, it is stable and still has a good community around it. Down the road I might change my mind and switch to something else. If it would cover my then needs butter, why now.
 
 I might even come back to WordPress one day and use it again, but probably only if I want to build something more complex, something I wouldn't be able to do on a static site. But that day hasn't come yet.
+
+---
+
+## Support me 💓
+
+Did you find it useful? Star this repository and share it with a friend. You can also buy me a coffee. Thank you.
+
+<br>
+<a href="https://www.buymeacoffee.com/mareklexuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 53px !important;width: 192px !important;" ></a>
+<br>
