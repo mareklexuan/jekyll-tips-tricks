@@ -14,6 +14,9 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 
 - [Moving from WordPress to Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/moving-from-wordpress-to-jekyll.md)
 - [Reasons why I chose Jekyll over WordPress](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/reasons-why-i-chose-jekyll-over-wordpress.md)
+
+## Tips & tricks
+
 - [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/how-to-use-comments-in-jekyll.md)
 - [Make your HTML output files smaller (compress/minify HTML)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/make-your-html-output-files-smaller-compress-minify-html.md)
 
