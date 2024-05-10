@@ -4,7 +4,7 @@ Smaller file sizes means faster loading of your website, which translates into b
 
 Today I want to share with you how to minify your HTML output files, and remove any excess characters, especially comments. Comments often take up a lot of space and also contain some private information you might not want to share in your public code. (You can read more about comments in my post [How to use comments in Jekyll][1].
 
-[1]: https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/how-to-use-comments-in-jekyll.md
+[1]: https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/1-posts/how-to-use-comments-in-jekyll.md
 
 There is a terminological difference between minification and compression, however they are often mixed up and interchanged, so don't get confused and search only for one.
 

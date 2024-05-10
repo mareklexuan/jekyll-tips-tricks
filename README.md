@@ -12,21 +12,21 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 
 ## Posts
 
-- [Moving from WordPress to Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/moving-from-wordpress-to-jekyll.md)
-- [Reasons why I chose Jekyll over WordPress](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/reasons-why-i-chose-jekyll-over-wordpress.md)
+- [Moving from WordPress to Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/1-posts/moving-from-wordpress-to-jekyll.md)
+- [Reasons why I chose Jekyll over WordPress](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/1-posts/reasons-why-i-chose-jekyll-over-wordpress.md)
 
 ## Tips & tricks
 
-- [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/how-to-use-comments-in-jekyll.md)
-- [Make your HTML output files smaller (compress/minify HTML)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/make-your-html-output-files-smaller-compress-minify-html.md)
+- [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/2-tips-and-tricks/how-to-use-comments-in-jekyll.md)
+- [Make your HTML output files smaller (compress/minify HTML)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/2-tips-and-tricks/make-your-html-output-files-smaller-compress-minify-html.md)
 
 ## Code snippets
 
-- [Open Graph "article:tag meta" tag](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/open-graph-meta-tag-article-tag.md) - Add Open Graph "article:tag meta" tag to posts
-- [Read time](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/read-time.md) - Add read time to posts
-- [RSS 2.0 feed](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/rss-2.0-feed.md) - Add simple RSS 2.0 feed
-- [Sitemap](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/sitemap.md) - Add sitemap
-- [Star rating](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/code-snippets/star-rating.md) - Add star rating
+- [Open Graph "article:tag meta" tag](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/3-code-snippets/open-graph-meta-tag-article-tag.md) - Add Open Graph "article:tag meta" tag to posts
+- [Read time](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/3-code-snippets/read-time.md) - Add read time to posts
+- [RSS 2.0 feed](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/3-code-snippets/rss-2.0-feed.md) - Add simple RSS 2.0 feed
+- [Sitemap](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/3-code-snippets/sitemap.md) - Add sitemap
+- [Star rating](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/3-code-snippets/star-rating.md) - Add star rating
 
 ## Support me 💓
 

@@ -35,7 +35,7 @@ With Jekyll, I can focus more on my main goal - writing content, even offline, i
 - **Performance - generating pages** - Jekyll generates the whole website at once and then I can host it on my server. No need to generate every page every time somebody accesses it, or create some workarounds.
 - **Performance - code bloat** - With Jekyll I have full control over what I add to my website. WordPress with plugins add unnecessary code that you need to optimize.
 
-_More details breakdown of the reasons why I decided to leave WordPress and move to Jekyll is [here](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/reasons-why-i-chose-jekyll-over-wordpress.md)._
+_More details breakdown of the reasons why I decided to leave WordPress and move to Jekyll is [here](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/1-posts/reasons-why-i-chose-jekyll-over-wordpress.md)._
 
 ## Did I make the right choice?
 

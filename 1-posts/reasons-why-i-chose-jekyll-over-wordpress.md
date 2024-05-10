@@ -2,7 +2,7 @@
 
 This is a follow up on my post [Moving from WordPress to Jekyll][1], a more detailed breakdown of reasons why I decided to leave WordPress and move to Jekyll.
 
-[1]: https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/posts/moving-from-wordpress-to-jekyll.md
+[1]: https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/1-posts/moving-from-wordpress-to-jekyll.md
 
 Just to set the scene:
 
