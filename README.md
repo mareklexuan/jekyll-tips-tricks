@@ -14,6 +14,7 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 
 - [Moving from WordPress to Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/1-posts/moving-from-wordpress-to-jekyll.md)
 - [Reasons why I chose Jekyll over WordPress](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/1-posts/reasons-why-i-chose-jekyll-over-wordpress.md)
+- [Future of Jekyll (in 2024)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/1-posts/future-of-jekyll-in-2024.md)
 
 ## Tips & tricks
 
