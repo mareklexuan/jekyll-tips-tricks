@@ -99,7 +99,7 @@ gem uninstall GEMNAME
 
 One big dependency is the gem's requirements of the Ruby version. The new version of gem can bump up the requirement to a higher version of Ruby, so you also need to update it from time to time. Understanding Ruby versions is a problem of its own, which I have covered in [this post][1].
 
-[1]: https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/understanding-ruby-versions.md
+[1]: https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/understanding-ruby-and-jekyll-versions.md
 
 ## Updates can solve your problem
 
