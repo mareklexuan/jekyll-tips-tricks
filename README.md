@@ -19,6 +19,7 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 
 ## Tips & tricks
 
+- [Understanding Ruby and Jekyll versions](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/understanding-ruby-and-jekyll-versions.md)
 - [What are Ruby gems](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/what-are-ruby-gems.md)
 - [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/how-to-use-comments-in-jekyll.md)
 - [Make your HTML output files smaller (compress/minify HTML)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/make-your-html-output-files-smaller-compress-minify-html.md)
