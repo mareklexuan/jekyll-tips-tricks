@@ -36,6 +36,16 @@ og-description: "Shorter description of the page."
 <meta property="og:description" content="{{ page.og-description }}" />
 ```
 
+## Open Graph URL
+
+Open Graph URL is a link to the page. For this, you don't need a Front Matter variable, as your domain stays the same and the URL slug to the page is already available as Liquid tag, so you can use:
+
+```html
+<meta property="og:url" content="https://mydomain.com{{ page.url}}" />
+```
+
+You can use both, absolute URLs or relative from the root (your domain). Facebook needs the absolute URL to be able to access it, but it is smart enough to understand the relative paths and add the missing domain. But it is better to add URLs (including links to the images, discussed in the next section) including the domain.
+
 ## Open Graph Image
 
 Open Graph image is a link to your thumbnail image. For optimal results, so the image fills the whole area and doesn't get cropped or warped, use the image exactly 1200 x 630 pixels (see more information in the [official documentation](https://developers.facebook.com/docs/sharing/webmasters/images/)).
@@ -69,14 +79,6 @@ og-image: image-og.jpg
 ```
 
 If you followed my advice and you named your thumbnail images in a format consisting of a URL slug to the post for which the thumbnail is added, the "-og" to distinguish the mage for Open Graph, and using one file extension (for example .jpg), you can remove the Front Matter variable completely and only create a Liquid formula to get the path to the thumbnail image automatically from the page's URL. You can find the solution in the code snippet: [Automatic Open Graph og:image property using page URL](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/automatic-open-graph-ogimage-property.md)
-
-## Open Graph URL
-
-Open Graph URL is a link to the page. For this, you don't need a Front Matter variable, as your domain stays the same and the URL slug to the page is already available as Liquid tag, so you can use:
-
-```html
-<meta property="og:url" content="https://mydomain.com{{ page.url}}" />
-```
 
 ## Other Open Graph tags
 
