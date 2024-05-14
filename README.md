@@ -24,6 +24,7 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 - [What are Ruby gems](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/what-are-ruby-gems.md)
 - [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/how-to-use-comments-in-jekyll.md)
 - [Implementing SEO tags - Basics](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-basics.md)
+- [Implementing SEO tags - Open Graph](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-open-graph.md)
 - [Implementing SEO tags - Twitter](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-twitter.md)
 - [Implementing SEO tags - Schema.org](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-schemaorg.md)
 - [Make your HTML output files smaller (compress/minify HTML)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/make-your-html-output-files-smaller-compress-minify-html.md)
