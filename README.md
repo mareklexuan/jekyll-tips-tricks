@@ -16,6 +16,7 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 - [Reasons why I chose Jekyll over WordPress](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/1-posts/reasons-why-i-chose-jekyll-over-wordpress.md)
 - [Jekyll vs other static site generators)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/1-posts/jekyll-vs-other-static-site-generators.md)
 - [Future of Jekyll (in 2024)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/1-posts/future-of-jekyll-in-2024.md)
+- [My favourite VS Code extensions](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/1-posts/my-favourite-vs-code-extensions.md)
 
 ## Tips & tricks
 
