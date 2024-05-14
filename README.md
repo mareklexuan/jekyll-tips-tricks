@@ -25,6 +25,7 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 - [How to use comments in Jekyll](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/how-to-use-comments-in-jekyll.md)
 - [Implementing SEO tags - Basics](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-basics.md)
 - [Implementing SEO tags - Twitter](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-twitter.md)
+- [Implementing SEO tags - Schema.org](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-schemaorg.md)
 - [Make your HTML output files smaller (compress/minify HTML)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/make-your-html-output-files-smaller-compress-minify-html.md)
 
 ## Code snippets
