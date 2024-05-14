@@ -1,6 +1,6 @@
 # Implementing SEO tags - Twitter
 
-_Part 3 of the "Implementing SEO tags" series. To start, see Part 1: [Implementing SEO tags - basics](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-basics.md)_
+_Part 3 of the "Implementing SEO tags" series. To start at the beginning, see Part 1: [Implementing SEO tags - basics](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-basics.md)_
 
 Twitter, now X, has its own SEO tags for sharing on its platform. It is very similar to the Open Graph protocol, however the HTML declaration is slightly different. They use different HTML attributes - Twitter uses "name" attribute:
 
