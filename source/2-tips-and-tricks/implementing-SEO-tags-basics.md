@@ -114,6 +114,6 @@ To learn more about comments in Jekyll, check out my page [How to use comments i
 
 To learn how to implement other SEO tags, check out following parts of this series:
 
-[Part 2: Open Graph tags](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-open-graph.md)
-[Part 3: Twitter tags](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-twitter.md)
-[Part 4: Schema.org tags](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-schemaorg.md)
+- [Part 2: Open Graph tags](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-open-graph.md)
+- [Part 3: Twitter tags](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-twitter.md)
+- [Part 4: Schema.org tags](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/2-tips-and-tricks/implementing-SEO-tags-schemaorg.md)
