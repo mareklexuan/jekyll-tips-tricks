@@ -78,7 +78,7 @@ og-image: image-og.jpg
 <meta property="og:image" content="https://mydomain.com/media/{{ page.og-image }}" />
 ```
 
-If you followed my advice and you named your thumbnail images in a format consisting of a URL slug to the post for which the thumbnail is added, the "-og" to distinguish the mage for Open Graph, and using one file extension (for example .jpg), you can remove the Front Matter variable completely and only create a Liquid formula to get the path to the thumbnail image automatically from the page's URL. You can find the solution in the code snippet: [Automatic Open Graph og:image property using page URL](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/automatic-open-graph-ogimage-property.md)
+If you followed my advice and you named your thumbnail images in a format consisting of a URL slug to the post for which the thumbnail is added, the "-og" to distinguish the mage for Open Graph, and using one file extension (for example .jpg), you can remove the Front Matter variable completely and only create a Liquid formula to get the path to the thumbnail image automatically from the page's URL. You can find the solution in the code snippet: [Automatic Open Graph og:image property using page URL](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/open-graph-and-twitter-image-property-using-page-url.md)
 
 ## Other Open Graph tags
 

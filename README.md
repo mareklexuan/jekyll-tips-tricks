@@ -31,7 +31,7 @@ This content is meant for beginners, hobbyists and enthusiasts like me, who are 
 
 ## Code snippets
 
-- [Automatic Open Graph and Twitter image property using page URL (without custom variable in Front Matter)](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/automatic-open-graph-ogimage-property.md) - Make a formula that generates the path to the SEO thumbnail image from page's URL
+- [Open Graph and Twitter image property using page URL](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/open-graph-and-twitter-image-property-using-page-url.md) - Add path to the SEO thumbnail image from using page URL
 - [Open Graph "article:tag meta" tag](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/open-graph-meta-tag-article-tag.md) - Add Open Graph "article:tag meta" tag to posts
 - [Read time](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/read-time.md) - Add read time to posts
 - [RSS 2.0 feed](https://github.com/mareklexuan/jekyll-tips-tricks/blob/main/source/3-code-snippets/rss-2.0-feed.md) - Add simple RSS 2.0 feed

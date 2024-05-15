@@ -29,6 +29,12 @@ This code example is for pages where posts are not slugified/sorted into folders
 
 ## Notes
 
+- Process for the Twitter image is the same, you just need to use slightly different HTML tag and use different suffix, for example "-tw".
+
+```html
+<meta name="twitter:image" content="https://mydomain.com/media/meta-images/{{ page.url | remove: "/" }}-tw.jpg" />
+```
+
 - It will not work for the homepage, as it has no URL slug. You need to create an exception for the homepage, something like "if it is a homepage (URL is /, empty etc.), use this specific image, otherwise use the formula".
 - If you are using combination of the URL formats endings, for example with trailing slash and the ".html" suffix, you can add multiple filters to your Liquid tag, like `{{ page.url | remove: "/" | remove: ".html"}}`.
 - If you are using the URL format which contains folders, like categories, tags, or dates (for example `https://mydomain.com/cars/2024/05/01/this-is-the-post.html`), you will need to adjust the formula, the file format, or image location. I like a simple structure, no sub-folders for posts and all meta images in one folder, but you might have a different approach. However, more complexity you add to the URL, more you then need to remove and more edge cases it can create with which you then need to deal with.
